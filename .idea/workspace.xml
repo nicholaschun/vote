@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e59fa143-3923-4064-a875-3ce205eba4e5" name="Default" comment="" />
+    <ignored path="vote.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="vote" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="prez.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/prez.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="57" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.0" vertical-offset="764" max-vertical-offset="1547">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dvi.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/dvi.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="13" selection-start="62" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1870">
+              <folding>
+                <marker date="1412784109604" expanded="true" signature="330:382" placeholder="SELECT * FRO..candiregister..." />
+                <marker date="1412784109604" expanded="true" signature="1851:1901" placeholder="SELECT * FRO..candiregister..." />
+                <marker date="1412784109604" expanded="false" signature="2071:2111" placeholder="..." />
+                <marker date="1412784109604" expanded="true" signature="2718:2802" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tri.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/tri.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1938">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="track.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/track.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="0" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0" vertical-offset="296" max-vertical-offset="1870">
+              <folding>
+                <marker date="1426699511544" expanded="true" signature="1177:1216" placeholder="SELECT * FRO..disk..." />
+                <marker date="1426699511544" expanded="false" signature="1427:1442" placeholder="..." />
+                <marker date="1426699511544" expanded="true" signature="1461:1813" placeholder="..." />
+                <marker date="1426699511544" expanded="false" signature="1945:1960" placeholder="..." />
+                <marker date="1426699511544" expanded="true" signature="1979:2330" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="catur.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/catur.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="2040">
+              <folding>
+                <marker date="1426699293714" expanded="true" signature="423:475" placeholder="SELECT * FRO..candiregister..." />
+                <marker date="1426699293714" expanded="true" signature="2206:2256" placeholder="SELECT * FRO..candiregister..." />
+                <marker date="1426699293714" expanded="false" signature="2440:2480" placeholder="..." />
+                <marker date="1426699293714" expanded="true" signature="3279:3363" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panc.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/panc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="0" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="2108">
+              <folding>
+                <marker date="1426699293750" expanded="true" signature="448:500" placeholder="SELECT * FRO..candiregister..." />
+                <marker date="1426699293750" expanded="true" signature="2490:2540" placeholder="SELECT * FRO..candiregister..." />
+                <marker date="1426699293750" expanded="false" signature="2723:2763" placeholder="..." />
+                <marker date="1426699293750" expanded="true" signature="3562:3646" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sum.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/sum.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="371" column="61" selection-start="11071" selection-end="11071" vertical-scroll-proportion="0.4596182" vertical-offset="5994" max-vertical-offset="6715">
+              <folding>
+                <marker date="1426770379031" expanded="true" signature="207:251" placeholder="SELECT id FR..disk..." />
+                <marker date="1426770379031" expanded="true" signature="1400:1444" placeholder="SELECT eka, ..disk..." />
+                <marker date="1426770379031" expanded="true" signature="1573:1625" placeholder="SELECT eka, ..disk..." />
+                <marker date="1426770379031" expanded="true" signature="2141:2225" placeholder="UPDATE candi..." />
+                <marker date="1426770379031" expanded="true" signature="2331:2381" placeholder="SELECT * FRO..candiregister..." />
+                <marker date="1426770379031" expanded="false" signature="2563:2610" placeholder="..." />
+                <marker date="1426770379031" expanded="true" signature="3949:3993" placeholder="SELECT tri, ..disk..." />
+                <marker date="1426770379031" expanded="true" signature="4110:4162" placeholder="SELECT tri, ..disk..." />
+                <marker date="1426770379031" expanded="true" signature="4638:4722" placeholder="UPDATE candi..." />
+                <marker date="1426770379031" expanded="true" signature="4814:4864" placeholder="SELECT * FRO..candiregister..." />
+                <marker date="1426770379031" expanded="false" signature="5030:5077" placeholder="..." />
+                <marker date="1426770379031" expanded="true" signature="6331:6379" placeholder="SELECT catur..disk..." />
+                <marker date="1426770379031" expanded="true" signature="6496:6552" placeholder="SELECT catur..disk..." />
+                <marker date="1426770379031" expanded="true" signature="7030:7114" placeholder="UPDATE candi..." />
+                <marker date="1426770379031" expanded="true" signature="7206:7256" placeholder="SELECT * FRO..candiregister..." />
+                <marker date="1426770379031" expanded="false" signature="7424:7471" placeholder="..." />
+                <marker date="1426770379031" expanded="true" signature="8722:8768" placeholder="SELECT panc,..disk..." />
+                <marker date="1426770379031" expanded="true" signature="8885:8939" placeholder="SELECT panc,..disk..." />
+                <marker date="1426770379031" expanded="true" signature="9416:9500" placeholder="UPDATE candi..." />
+                <marker date="1426770379031" expanded="true" signature="9592:9642" placeholder="SELECT * FRO..candiregister..." />
+                <marker date="1426770379031" expanded="false" signature="9809:9856" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="0" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="391">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/head.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="111" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="153">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="emergency insert.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/emergency insert.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="29" selection-start="695" selection-end="695" vertical-scroll-proportion="-20.038462" vertical-offset="6" max-vertical-offset="799">
+              <folding>
+                <marker date="1426732776985" expanded="true" signature="235:324" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/css/style.css.html" />
+        <option value="$PROJECT_DIR$/js/validate-forms.js" />
+        <option value="$PROJECT_DIR$/admin/add_admin.php" />
+        <option value="$PROJECT_DIR$/public/home.php" />
+        <option value="$PROJECT_DIR$/admin/falselogin.php" />
+        <option value="$PROJECT_DIR$/public/voted.php" />
+        <option value="$PROJECT_DIR$/public/falselogin.php" />
+        <option value="$PROJECT_DIR$/includes/refresh.php" />
+        <option value="$PROJECT_DIR$/includes/heed.php" />
+        <option value="$PROJECT_DIR$/date.php" />
+        <option value="$PROJECT_DIR$/public/dvi.php" />
+        <option value="$PROJECT_DIR$/admin/logout.php" />
+        <option value="$PROJECT_DIR$/admin/config.php" />
+        <option value="$PROJECT_DIR$/admin/board.php" />
+        <option value="$PROJECT_DIR$/admin/insert_candi.php" />
+        <option value="$PROJECT_DIR$/public/genpass.php" />
+        <option value="$PROJECT_DIR$/public/reset.php" />
+        <option value="$PROJECT_DIR$/admin/login.php" />
+        <option value="$PROJECT_DIR$/admin/home.php" />
+        <option value="$PROJECT_DIR$/admin/interval.php" />
+        <option value="$PROJECT_DIR$/admin/counter.php" />
+        <option value="$PROJECT_DIR$/admin/voter register/vice.php" />
+        <option value="$PROJECT_DIR$/admin/voter register/finansec.php" />
+        <option value="$PROJECT_DIR$/admin/finansec.php" />
+        <option value="$PROJECT_DIR$/admin/gen.php" />
+        <option value="$PROJECT_DIR$/admin/orgnana.php" />
+        <option value="$PROJECT_DIR$/includes/pager_outgoing.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/includes/re.php" />
+        <option value="$PROJECT_DIR$/admin/re.php" />
+        <option value="$PROJECT_DIR$/includes/header.php" />
+        <option value="$PROJECT_DIR$/public/login.php" />
+        <option value="$PROJECT_DIR$/admin/turnout.php" />
+        <option value="$PROJECT_DIR$/includes/pager.php" />
+        <option value="$PROJECT_DIR$/includes/ivote.php" />
+        <option value="$PROJECT_DIR$/admin/vice.php" />
+        <option value="$PROJECT_DIR$/sum.php" />
+        <option value="$PROJECT_DIR$/admin/results.php" />
+        <option value="$PROJECT_DIR$/admin/insert_users.php" />
+        <option value="$PROJECT_DIR$/run.php" />
+        <option value="$PROJECT_DIR$/public/prez.php" />
+        <option value="$PROJECT_DIR$/public/sas.php" />
+        <option value="$PROJECT_DIR$/public/sapta.php" />
+        <option value="$PROJECT_DIR$/public/tri.php" />
+        <option value="$PROJECT_DIR$/public/panc.php" />
+        <option value="$PROJECT_DIR$/public/catur.php" />
+        <option value="$PROJECT_DIR$/admin/track.php" />
+        <option value="$PROJECT_DIR$/includes/head.php" />
+        <option value="$PROJECT_DIR$/admin/emergency insert.php" />
+        <option value="$PROJECT_DIR$/admin/sum.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-45" />
+    <option name="y" value="61" />
+    <option name="width" value="1552" />
+    <option name="height" value="842" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ferdconsult" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="SearchEverywhereHistory" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\vote\admin" />
+      <recent name="C:\xampp\htdocs\vote\includes" />
+      <recent name="C:\xampp\htdocs\vote" />
+      <recent name="C:\xampp\htdocs\vote\images" />
+      <recent name="C:\xampp\htdocs\vote\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\vote\admin" />
+      <recent name="C:\xampp\htdocs\vote" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e59fa143-3923-4064-a875-3ce205eba4e5" name="Default" comment="" />
+      <created>1411120872562</created>
+      <updated>1411120872562</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-45" y="61" width="1552" height="842" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23177083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32742155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/finansec.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="0" selection-start="1118" selection-end="2936" vertical-scroll-proportion="0.0" vertical-offset="1580" max-vertical-offset="2635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/gen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="8" selection-start="1112" selection-end="2913" vertical-scroll-proportion="0.0" vertical-offset="1750" max-vertical-offset="2516" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/vice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="8" selection-start="1115" selection-end="2913" vertical-scroll-proportion="0.0" vertical-offset="1818" max-vertical-offset="2567" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/vote.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/summary.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bullet.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/box.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/background3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="31" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/board.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="67" selection-start="948" selection-end="948" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1037" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/PHPExcel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14093" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/PHPExcel/Cell/DataType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1632" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/voted.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="53" selection-start="1009" selection-end="1216" vertical-scroll-proportion="0.0" vertical-offset="343" max-vertical-offset="1343" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/reset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="5" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1955" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="1" selection-start="468" selection-end="468" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="59" selection-start="1009" selection-end="1009" vertical-scroll-proportion="-24.192308" vertical-offset="0" max-vertical-offset="1054" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/interval.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="14" selection-start="1330" selection-end="1330" vertical-scroll-proportion="0.0" vertical-offset="731" max-vertical-offset="1054" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="254" column="17" selection-start="4532" selection-end="4532" vertical-scroll-proportion="0.0" vertical-offset="3879" max-vertical-offset="7293" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/counter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="24" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1241" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/genpass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="21" selection-start="673" selection-end="673" vertical-scroll-proportion="24.5" vertical-offset="1113" max-vertical-offset="1768" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="60" selection-start="885" selection-end="885" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/re.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="79" selection-start="853" selection-end="853" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="1343" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="22" selection-start="542" selection-end="585" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="1122" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/turnout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="38" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="935" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/pager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="12" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0" vertical-offset="1402" max-vertical-offset="2057" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/ivote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="302" column="0" selection-start="7379" selection-end="7379" vertical-scroll-proportion="0.0" vertical-offset="5134" max-vertical-offset="5338">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/re.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1547" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/vice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="8" selection-start="1115" selection-end="2913" vertical-scroll-proportion="0.0" vertical-offset="1818" max-vertical-offset="2567" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/gen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="8" selection-start="1112" selection-end="2913" vertical-scroll-proportion="0.0" vertical-offset="1750" max-vertical-offset="2516" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/finansec.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="0" selection-start="1118" selection-end="2936" vertical-scroll-proportion="0.0" vertical-offset="1580" max-vertical-offset="2635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/orgnana.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="8" selection-start="1115" selection-end="2920" vertical-scroll-proportion="0.0" vertical-offset="1461" max-vertical-offset="2499" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/insert_candi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="47" selection-start="2259" selection-end="2259" vertical-scroll-proportion="0.0" vertical-offset="524" max-vertical-offset="2907" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/results.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="143" column="55" selection-start="3862" selection-end="3862" vertical-scroll-proportion="0.0" vertical-offset="1924" max-vertical-offset="2669" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/insert_users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="101" selection-start="1865" selection-end="1865" vertical-scroll-proportion="-29.115385" vertical-offset="382" max-vertical-offset="2380" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="10" selection-start="91" selection-end="91" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="391" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/sas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="144" column="0" selection-start="5638" selection-end="5638" vertical-scroll-proportion="0.0" vertical-offset="879" max-vertical-offset="2924" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/sapta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="586" selection-end="586" vertical-scroll-proportion="0.0" vertical-offset="832" max-vertical-offset="1513" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/prez.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="57" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.0" vertical-offset="764" max-vertical-offset="1547">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/panc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="2108">
+          <folding>
+            <marker date="1426699293750" expanded="true" signature="448:500" placeholder="SELECT * FRO..candiregister..." />
+            <marker date="1426699293750" expanded="true" signature="2490:2540" placeholder="SELECT * FRO..candiregister..." />
+            <marker date="1426699293750" expanded="false" signature="2723:2763" placeholder="..." />
+            <marker date="1426699293750" expanded="true" signature="3562:3646" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/catur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="2040">
+          <folding>
+            <marker date="1426699293714" expanded="true" signature="423:475" placeholder="SELECT * FRO..candiregister..." />
+            <marker date="1426699293714" expanded="true" signature="2206:2256" placeholder="SELECT * FRO..candiregister..." />
+            <marker date="1426699293714" expanded="false" signature="2440:2480" placeholder="..." />
+            <marker date="1426699293714" expanded="true" signature="3279:3363" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/tri.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1938">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/track.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0" vertical-offset="296" max-vertical-offset="1870">
+          <folding>
+            <marker date="1426699511544" expanded="true" signature="1177:1216" placeholder="SELECT * FRO..disk..." />
+            <marker date="1426699511544" expanded="false" signature="1427:1442" placeholder="..." />
+            <marker date="1426699511544" expanded="true" signature="1461:1813" placeholder="..." />
+            <marker date="1426699511544" expanded="false" signature="1945:1960" placeholder="..." />
+            <marker date="1426699511544" expanded="true" signature="1979:2330" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="111" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/dvi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="62" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1870">
+          <folding>
+            <marker date="1412784109604" expanded="true" signature="330:382" placeholder="SELECT * FRO..candiregister..." />
+            <marker date="1412784109604" expanded="true" signature="1851:1901" placeholder="SELECT * FRO..candiregister..." />
+            <marker date="1412784109604" expanded="false" signature="2071:2111" placeholder="..." />
+            <marker date="1412784109604" expanded="true" signature="2718:2802" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/emergency insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="29" selection-start="695" selection-end="695" vertical-scroll-proportion="-20.038462" vertical-offset="6" max-vertical-offset="799">
+          <folding>
+            <marker date="1426732776985" expanded="true" signature="235:324" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="371" column="61" selection-start="11071" selection-end="11071" vertical-scroll-proportion="0.4596182" vertical-offset="5994" max-vertical-offset="6715">
+          <folding>
+            <marker date="1426770379031" expanded="true" signature="207:251" placeholder="SELECT id FR..disk..." />
+            <marker date="1426770379031" expanded="true" signature="1400:1444" placeholder="SELECT eka, ..disk..." />
+            <marker date="1426770379031" expanded="true" signature="1573:1625" placeholder="SELECT eka, ..disk..." />
+            <marker date="1426770379031" expanded="true" signature="2141:2225" placeholder="UPDATE candi..." />
+            <marker date="1426770379031" expanded="true" signature="2331:2381" placeholder="SELECT * FRO..candiregister..." />
+            <marker date="1426770379031" expanded="false" signature="2563:2610" placeholder="..." />
+            <marker date="1426770379031" expanded="true" signature="3949:3993" placeholder="SELECT tri, ..disk..." />
+            <marker date="1426770379031" expanded="true" signature="4110:4162" placeholder="SELECT tri, ..disk..." />
+            <marker date="1426770379031" expanded="true" signature="4638:4722" placeholder="UPDATE candi..." />
+            <marker date="1426770379031" expanded="true" signature="4814:4864" placeholder="SELECT * FRO..candiregister..." />
+            <marker date="1426770379031" expanded="false" signature="5030:5077" placeholder="..." />
+            <marker date="1426770379031" expanded="true" signature="6331:6379" placeholder="SELECT catur..disk..." />
+            <marker date="1426770379031" expanded="true" signature="6496:6552" placeholder="SELECT catur..disk..." />
+            <marker date="1426770379031" expanded="true" signature="7030:7114" placeholder="UPDATE candi..." />
+            <marker date="1426770379031" expanded="true" signature="7206:7256" placeholder="SELECT * FRO..candiregister..." />
+            <marker date="1426770379031" expanded="false" signature="7424:7471" placeholder="..." />
+            <marker date="1426770379031" expanded="true" signature="8722:8768" placeholder="SELECT panc,..disk..." />
+            <marker date="1426770379031" expanded="true" signature="8885:8939" placeholder="SELECT panc,..disk..." />
+            <marker date="1426770379031" expanded="true" signature="9416:9500" placeholder="UPDATE candi..." />
+            <marker date="1426770379031" expanded="true" signature="9592:9642" placeholder="SELECT * FRO..candiregister..." />
+            <marker date="1426770379031" expanded="false" signature="9809:9856" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,423 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    font-family: Museo, Segoe UI , sans-serif;
+    margin: 0px;
+
+   }
+
+#launch{
+    width: 350px;
+    margin-top:500px;
+    margin-left: 200px;
+}
+
+#launch a{
+    padding:10px;
+    width: 350px;
+    height: 50px;
+    border: 1px solid #ad4d1c;
+    background: #934023;
+    color: #fffbfd;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+
+
+}
+
+
+.launch  {
+    margin-left: 50px;
+}
+
+
+#launch a:hover{
+    background: #cc4715;
+}
+
+#top-bar{
+    height: 70px;
+    margin:0px;
+    background-color: rgba(124, 121, 123, 0.65);
+
+}
+
+#login-container{
+    margin-top:100px;
+    margin-left:550px;
+    width:400px;
+    height:400px;
+    background-color: rgba(152, 148, 150, 0.32);
+
+
+}
+
+
+#login-container .form{
+    margin-left: 8px;
+    padding: 50px;
+    position: absolute;
+    margin-top:-20px;
+}
+
+#login-container .form-head{
+    height: 50px;
+    background-color: rgb(104, 110, 117);
+    border-bottom: 8px solid #000000;
+}
+#login-container .form-head h2{
+    color: white;
+    padding: 10px;
+    size:20px;
+    margin-left: 55px;
+    text-shadow: 0px 1px 1px rgb(0, 0, 0);
+
+}
+#login-container span{
+    color: #f50000;
+    font-size: 15px;
+    font-family: "Segoe UI Light";
+    padding:20px;
+    margin-left: 25px;
+    text-shadow: 0px 1px 1px rgb(0, 0, 0);
+
+}
+#login-container .message{
+    color: red;
+    font-weight: bold;
+}
+
+#login-container .warning{
+    text-align:center;
+    display:block;
+    font-weight:normal;
+    color:white;
+    background: #df4b5f;
+    width: 300px;
+    border: 1px solid #b50000;
+    font-size: 15px;
+    border-radius: 3px;
+    margin-top: 30px;
+    margin-left: 40px;
+    padding: 10px;
+    height: 15px;
+    text-shadow: 0px 1px 1px rgb(0, 0, 0);
+    display: none;
+}
+
+#login-container .form label{
+    margin-left: 10px;
+    font-size: 16px;
+    font-family: Segoe UI , sans-serif;
+    color: white;
+    font-weight: bold;
+    text-shadow: 0px 1px 1px rgb(0, 0, 0);
+
+}
+#login-container .form input{
+    margin:10px;
+    padding:5px;
+    height:25px;
+    width:250px;
+    border-radius: 5px;
+    border: 1px solid #989496;
+    font-size: 15px;
+
+}
+#login-container .form button{
+    margin:10px;
+    width: 250px;
+    background-color: #929ca3;
+    border: 1px solid #929ca3;
+    color:white;
+    height:40px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 15px;
+    text-shadow: 0px 1px 1px rgb(0, 0, 0);
+
+
+
+}
+
+
+#login-container .form button:hover{
+    background-color: #c3cdd4;
+}
+
+#container{
+    margin-left: 450px;
+
+}
+
+#container #welcome{
+    width: 800px;
+    background-color: darkred;
+    border-radius: 5px;
+    margin-top:20px;
+    margin-left: -80px;
+}
+#container #welcome p{
+    margin-left: 100px;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 15px;
+    padding:5px;
+}
+#container .title{
+    font-size: 50px;
+    font-weight: bold;
+    color: #12151a;
+    font-family: Arial;
+    padding: 10px;
+    margin-left: 200px;
+}
+
+#container .container{
+    width: 1050px;
+    height: 600px;
+    background-color: #FFFFFF;
+    margin-left: -200px;
+}
+
+#container .container .user {
+    color: #383e45;
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 470px;
+    font-size: 15px;
+}
+#container .container .mini-container{
+    position: absolute;
+    width:1050px;
+    height: 600px;
+    background-image: url("../images/bg.png");
+    margin-left: 8px;
+    border-radius: 5px;
+}
+
+#container .container .mini-container{
+    position: absolute;
+    width:1050px;
+    height: 600px;
+    background-image: url("../images/bg.png");
+    margin-left: 8px;
+    border-radius: 5px;
+}
+
+#container .container .mini-container .nav-bar{
+
+}
+
+#container .container .mini-container .nav-bar ul{
+    list-style: none;
+}
+
+#container .container .mini-container .nav-bar ul li{
+    background-color: cornflowerblue;
+    width:150px;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border:1px solid lightblue;
+}
+
+#container .container .mini-container .nav-bar ul li a{
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+    padding: 2px;
+    text-shadow: 0px 1px 1px rgb(0, 0, 0);
+
+}
+
+#container .container .mini-container .nav-bar ul li:hover{
+    background-color: #9a7098;
+}
+
+#container .container .sum-box{
+    width: 229px;
+    height: 286px;
+    background-image: url("../images/summary.gif");
+    margin-left: 15px;
+    margin-top:15px;
+}
+
+
+
+#container .container .sum-box p{
+    text-decoration: underline;
+    color: darkred;
+    font-size: 16px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+
+#container .container .mini-container .mini-header{
+    background-color: #785076;
+    height: 50px;
+    margin-top: -15px;
+}
+
+#container .container .mini-container .content{
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 250px;
+    float: left;
+    width: 700px;
+    height: 450px;
+}
+
+#container .container .mini-container .content table .tname{
+    font-size: 15px;
+    color: #c60000;
+    font-weight: bold;
+}
+
+#container .container .mini-container .content table button{
+    width: 120px;
+    height:40px;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+
+#container .container .mini-container .content .skip{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+#container .container .mini-container .content .submit{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+#container .container .mini-container .mini-header p{
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    padding:8px;
+    margin-left: 180px;
+}
+
+#container .container .mini-container .skip {
+  margin-left: 450px;
+  margin-top: 100px;
+}
+#container .container .mini-container .skip button{
+    position: absolute;
+    width:200px;
+    height: 40px;
+    background-color: #b90000;
+    color: white;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    border: 1px solid darkred;
+
+
+}
+
+#container .container .mini-container .submit button{
+    position: absolute;
+    width:300px;
+    height: 40px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #b90000;
+    color: white;
+    border-radius: 6px;
+    border: 1px solid darkred;
+    margin-left: 70px;
+
+}
+
+#container .container .mini-container .submit button:hover{
+    background-color: lightcoral;
+}
+
+
+#container .container .mini-container .skip button:hover{
+    background-color: lightcoral;
+}
+
+#container .container .mini-container .insert{
+    margin-top: -100px;
+    margin-left: 300px;
+}
+
+#container .container .mini-container .insert form input,select{
+    padding-left:5px;
+    border:1px solid #b2b2b2;
+    width:270px;
+    height:30px;
+    border-radius: 3px;
+    margin-bottom:10px;
+    margin-top: 10px;
+}
+
+#container .container .mini-container .insert form button{
+    position: absolute;
+    width:300px;
+    height: 40px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #b90000;
+    color: white;
+    border-radius: 6px;
+    border: 1px solid darkred;
+    margin-left: 70px;
+}
+
+
+/* style for the pagination */
+div.pagination {
+    text-align:center;
+    margin:5px;
+    padding:5px;
+    margin-left: 500px;
+
+}
+div.pagination a {
+    margin-right:10px;
+    border:1px solid #2C2C2C;
+    text-decoration:none;
+    color:#fff;
+    background:#2C2C2C;
+    padding:7px;
+    border-radius: 5px;
+}
+div.pagination a:hover,div.pagination a:active {
+    border:1px solid #5087ba;
+    color:#FFF;
+    background: #5087ba;
+}
+div.pagination span.current {
+    margin-right:2px;
+    border:1px solid #66abed;
+    font-weight:700;
+    background: #66abed;
+    color:#FFF;
+    padding:2px 5px;
+    border-radius: 5px;
+
+}
+div.pagination span.disabled {
+    margin-right:2px;
+    border:1px solid #f3f3f3;
+    color:#ccc;
+    padding:2px 5px;
+    border-radius: 5px;
+
+}
+
+
+
+
